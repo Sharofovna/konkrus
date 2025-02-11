@@ -4,7 +4,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQu
 from aiogram.filters import Command
 import asyncio
 
-API_TOKEN = '7693456729:AAEmU0Vkrp54S51oNptDVMngVimq8MeYbU4'  # O'zingizning bot tokeningizni kiriting
+API_TOKEN = '7334439747:AAFvcfcjDOAWpddOOsI41ywOG-j-NxbGq9g'  # O'zingizning bot tokeningizni kiriting
 CHANNEL_USERNAME = '@Jizzaxlik_savdogar'  # Kanal username
 ADMIN_ID = 123456789  # Admin Telegram ID
 
